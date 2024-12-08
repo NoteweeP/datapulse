@@ -26,20 +26,6 @@ datapulse/
 4. Include proper references
 5. Update records after posting
 
-## Templates
-
-### Standard Thread Format
-```markdown
-[_dp] Pulse #[number]
-📍 Topic: [Main Theme]
-
-1/5: Overview + Hook
-2/5: Key Points
-3/5: Data/Stats
-4/5: Future Implications
-5/5: References
-```
-
 ## Guidelines
 
 ### Emoji Usage
