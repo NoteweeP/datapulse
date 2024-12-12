@@ -7,7 +7,7 @@ sequential_id: 002
 status: active
 ---
 
-🚨 BREAKING: Democratic enclave in Northeast Syria under threat as Islamic forces advance. This unique region, home to Christians, Kurds, and Yazidis, faces mounting pressure from Turkish-backed militias. #DataPulse #SyriaCrisis
+🚨 BREAKING: Democratic enclave in Northeast Syria under threat as Islamic forces advance. This unique region, home to Christians, Kurds, and Yazidis, faces mounting pressure from Turkish-backed militias. #_dp #DataPulse
 
 📊 KEY FACTS:
 - Region established democratic governance since 2012
@@ -41,6 +41,14 @@ status: active
 - Seeking diplomatic backing
 - Want protection of democratic values
 
-⏰ Time is critical. The survival of this democratic experiment in the Middle East hangs in the balance. International community's response could determine the future of religious freedom and stability in the region. #MiddleEast #Democracy
+⏰ Time is critical. The survival of this democratic experiment in the Middle East hangs in the balance. International community's response could determine the future of religious freedom and stability in the region. #SyriaCrisis #MiddleEast
 
-#DataPulse #GlobalSecurity #Democracy #ReligiousFreedom
+Source: CBN News Report (Dec 12, 2024)
+via @CBNNews
+
+Follow @_datapulse for more analysis on global developments 🌐
+
+#Democracy #ReligiousFreedom #GlobalSecurity
+
+---
+Source URL: [Video] CBN News Report - December 12, 2024
