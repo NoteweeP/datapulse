@@ -1,3 +1,12 @@
+---
+title: "Religious Education Dispute in Ohio Public Schools"
+date: 2024-12-15
+category: edu
+tags: [education, religion, policy]
+sequential_id: 001
+status: active
+---
+
 # DataPulse Twitter Thread: Religious Education Dispute
 
 [_dp] Pulse #241215
