@@ -1,5 +1,3 @@
-# dp_241215_001_pol_georgia_crisis.md
-
 ---
 title: "Georgia's Political Crisis Deepens with Ex-Footballer as President"
 date: 2024-12-15
