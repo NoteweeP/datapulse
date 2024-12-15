@@ -41,7 +41,7 @@ status: active
 - State-level response capabilities
 
 Source: Interview with Monmouth County Sheriff Sean Golden
-🔗 https://www.youtube.com/watch?v=CkdnGZhqwI0
+🔗 youtu.be/CkdnGZhqwI0
 
 #_dp #DataPulse #DroneSecurity #PublicSafety
 
