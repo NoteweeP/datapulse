@@ -34,10 +34,10 @@ post_tweet "4/5 🔮 Challenges & Timeline:
 - Limited reusable rocket capability
 - Concerns about orbital congestion and space debris ⚠️ #SpaceTechnology"
 
-post_tweet "5/5 Key Markets:
-Target regions include Russia, parts of Africa, and areas not covered by Starlink. Builds on existing infrastructure presence (e.g., Huawei's 70% 4G coverage in Africa) 🎯
+post_tweet "5/5 Key Markets & Targets:
+Russia, parts of Africa & areas without Starlink. Builds on existing infrastructure (Huawei's 70% 4G coverage in Africa) 🎯
 
-Source: CNBC
-🔗 https://www.youtube.com/watch?v=Dtdt8ZCTCFs"
+⚠️ Disclaimer: Analysis based on CNBC report
+🔗 https://youtube.com/watch?v=Dtdt8ZCTCFs #GlobalTech"
 
 echo "Thread posted successfully!"
