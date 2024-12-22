@@ -11,7 +11,7 @@ post_tweet() {
 }
 
 # Main thread
-post_tweet "🚨 _dp Pulse #221224 
+post_tweet "🚨 _dp Pulse #241222 
 📍 Crisis: WHO Calls for Immediate End to Attacks on Last Functioning Hospital in Northern Gaza 
 ⚡️Breaking: Kamal Adwan Hospital under severe threat #Healthcare #Humanitarian"
 
