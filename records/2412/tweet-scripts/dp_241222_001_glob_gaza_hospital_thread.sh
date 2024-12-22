@@ -42,7 +42,7 @@ post_tweet "5/5 🔍 Broader Impact:
 - Humanitarian access needed
 
 Source: International Coverage
-🎥 Full report: [VIDEO_LINK]
+🎥 Full report: https://www.youtube.com/watch?v=jdizRcQlbpM
 #HumanitarianAid"
 
 echo "Thread posted successfully!"
